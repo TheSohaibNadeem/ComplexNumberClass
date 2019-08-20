@@ -1,7 +1,5 @@
 /*
 Author:Sohaib Nadeem
-Student Number: 100621437
-Assignment 1 | INFR2140
 */
 #ifndef COMPLEXNUMBER_H
 #define COMPLEXNUMBER_H
