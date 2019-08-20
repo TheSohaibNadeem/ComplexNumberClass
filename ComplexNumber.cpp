@@ -1,7 +1,5 @@
 /*
 Author:Sohaib Nadeem
-Student Number: 100621437
-Assignment 1 | INFR2140
 */
 #include<iostream>
 #include<string>
